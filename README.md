@@ -1,5 +1,7 @@
 # React_quiz
 
+'To load questions: "npm run server"'
+
 # REACT
 
 # Desktop <-> Mobile
