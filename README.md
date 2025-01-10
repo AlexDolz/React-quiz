@@ -1,6 +1,8 @@
 # React_quiz
 
-'To load questions: "npm run server"'
+# To load questions:
+
+### `npm run server`
 
 # REACT
 
